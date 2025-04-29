@@ -170,7 +170,7 @@ cd medical-image-analysis-platform
 
 <hr>
 
-<h1>🚀 Diagnose Smarter. Collaborate Faster. Discover More.</h1>
+
 
 </body>
 </html>
